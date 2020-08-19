@@ -1,13 +1,13 @@
 # Site
 name: "Anggoli"
 title: "-"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "Anggoli merupakan salah satu desa yang berada di Kecamatan Sibabangun, Kabupaten Tapanuli Tengah, Provinsi Sumatra Utara, Indonesia."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/fav.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 #disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 email: afdhalnst@gmail.com
@@ -15,13 +15,13 @@ email: afdhalnst@gmail.com
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    name: Afdhal
+    display_name: Afdhal
+    gravatar: 1fc0d7c504d7af5871e0bc4b7c38bf93
+    email: afdhalnst@gmail.com
+    web: https://ig.dhal.dev
+    twitter: https://twitter.com/AfdhalNasution
+    description: "Author of Anggoli.com"
   john:
     name: John
     display_name: John    
