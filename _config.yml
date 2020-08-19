@@ -19,7 +19,7 @@ authors:
     display_name: Afdhal
     gravatar: 1fc0d7c504d7af5871e0bc4b7c38bf93
     email: afdhalnst@gmail.com
-    web: https://ig.dhal.dev
+    web: https://m.me/afdhalnst
     twitter: https://twitter.com/AfdhalNasution
     description: "Author of Anggoli.com"
   john:
@@ -54,7 +54,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: none
+highlighter: rouge
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
